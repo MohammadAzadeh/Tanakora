@@ -3,8 +3,7 @@ A shopping website using the Django framework and Django REST framework.
 
 ## Overview
 
-This website allows customers and sellers to come together by browsing through and selling various products, facilitating good transactions.
-The frontend might look basic as it was created without expertise in frontend technologies.
+This website allows customers and sellers to come together by browsing through and selling various products, This project have not a Frontend
 
 ## Features
 
@@ -16,7 +15,7 @@ The frontend might look basic as it was created without expertise in frontend te
 ### Prerequisites
 
 - Python [3.10]
-- Django [4.1.0]
+- Django [4.1.1]
 
 ### Installation
 
@@ -33,7 +32,6 @@ The frontend might look basic as it was created without expertise in frontend te
 3. Install dependencies
    ```bash 
    pip install -r requirements.txt
-
 
 4. Run the development server
    ```bash 
